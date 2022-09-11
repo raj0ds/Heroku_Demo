@@ -1,0 +1,14 @@
+torch
+pymongo
+flask
+pandas
+bs4
+jsonify
+simplejson
+numpy
+scipy
+transformers
+requests
+APScheduler
+regex
+newscatcherapi
